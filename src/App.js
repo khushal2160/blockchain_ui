@@ -7,8 +7,8 @@ import Home from './components/Home';
 import "./assets/fonts/CHIBOLD.ttf";
 import Appbar from "./components/Appbar";
 import Footer from "./components/Footer";
-import TimeLine from "./components/HomeComponents/TimeLine"
-import PortFolio from "./components/PortFolio"
+// import TimeLine from "./components/HomeComponents/TimeLine"
+// import PortFolio from "./components/PortFolio"
 
 function App() {
   return (
