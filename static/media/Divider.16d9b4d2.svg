@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1297px" height="5px" viewBox="0 0 1297 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Divider</title>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g transform="translate(-138.000000, -1854.000000)" fill="#123C93" id="Our-Game">
+            <g transform="translate(89.000000, 1108.000000)">
+                <polygon id="Divider" points="49 746 1346 746 1346 747 720.33728 751 49 747"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
