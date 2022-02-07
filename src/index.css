@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.custom_checkbox .MuiIconButton-label{
+  height: 15px;
+  width: 15px;
+}
+
+.custom_checkbox .MuiFormControlLabel-label {
+  font-family: 'CHIBOLD';
+  color: #623F34;
+  font-size: 12px;
+}
+
+.font_proxima_nova {
+  font-family: proxima-nova, sans-serif;  
+}
+
+.input_searching {
+  outline: none;
+}

@@ -1,0 +1,46 @@
+.our_monsters_wrap {margin: 0px; padding: 0px; box-sizing: border-box;}
+
+
+
+img{max-width: 100%;}
+
+.container{max-width: 100%; margin: 0px auto;}
+
+
+/* .description_box_wrapper 
+h4{font-size: 70px;
+    line-height: 1;
+    color: #fff;
+    margin-bottom: 20px;} */
+
+    /* .description {
+        font-size: 24px;
+        line-height: 1.3;
+        color: #fff;
+        margin-bottom: 30px;
+    } */
+
+    /* .our_monsters_wrap{background-color: #3666C9;} */
+
+  .our_monsters_wrap  .img_wrapper{position: relative; overflow: hidden; text-align: center;}
+
+  .our_monsters_wrap .description_box_wrapper {
+    max-width: 405px;
+    position: absolute;
+    z-index: 1;
+    transform: translate(-5%, -70%);
+    text-align: left;
+    left: 50.5%;
+    top: 45%;
+}
+
+
+    .our_monsters_wrap .img_wrapper img.main_bg {
+        right: -20px;
+        position: relative;
+    }
+
+    .monster_desc {
+        left: 62.5% !important;
+        top: 60% !important;
+    }

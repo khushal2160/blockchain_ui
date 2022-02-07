@@ -1,0 +1,119 @@
+@media only screen and (max-width: 2560px) {
+    .slider-item {
+      max-height: 100vh !important;
+    }
+}
+
+@media only screen and (max-width: 1275px) and (min-width: 1024px) {
+    .slider-root {
+        margin-top: -2% !important;
+    }
+}
+
+@media only screen and (max-width: 1180px) {
+    .slider-item {
+      max-height: 90vh !important;
+    }
+}
+
+@media only screen and (max-width: 1100px) {
+    .slider-item {
+      max-height: 85vh !important;
+    }
+}
+
+@media only screen and (max-width: 1050px) {
+    .slider-item {
+      max-height: 82vh !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .slider-item {
+      max-height: 47vh !important;
+    }
+}
+
+@media only screen and (max-width: 960px) and (min-width: 900px) {
+    .slider-item {
+      max-height: 74vh !important;
+    }
+}
+
+@media only screen and (max-width: 899px) {
+    .slider-item {
+      max-height: 68vh !important;
+    }
+}
+
+@media only screen and (max-width: 840px) {
+    .slider-item {
+      max-height: 65vh !important;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .slider-item {
+      max-height: 34vh !important;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .slider-item {
+      max-height: 54vh !important;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .slider-item {
+      max-height: 48vh !important;
+    }
+}
+
+@media only screen and (max-width: 560px) {
+    .slider-item {
+      max-height: 42.5vh !important;
+    }
+}
+
+@media only screen and (max-width: 485px) {
+    .slider-item {
+      max-height: 37vh !important;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .slider-item {
+      max-height: 34vh !important;
+    }
+}
+
+@media only screen and (max-width: 414px) {
+    .slider-item {
+      max-height: 25vh !important;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .slider-item {
+      max-height: 21vh !important;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .slider-item {
+      max-height: 26vh !important;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .slider-item {
+      max-height: 25vh !important;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .slider-item {
+      max-height: 19vh !important;
+    }
+}
